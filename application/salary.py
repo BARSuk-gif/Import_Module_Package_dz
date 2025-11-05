@@ -1,4 +1,4 @@
-from people import Employee
+from netologi.Import_Module_Package.application.db.people import Employee
 
 
 # working_days - количество рабочих дней в месяце
